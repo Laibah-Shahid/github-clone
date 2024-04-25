@@ -37,8 +37,8 @@ const Hero = (props: Props) => {
                         </div>
                     </a>
                 </div>
-                <h1 className="md:mt-24 lg:mt-28 sm:mt-10 relative z-2 max-md:mb-5 text-[48px] md:text-[72px] max-sm:leading-[60px] max-md:leading-[80px] lg:text-[80px] font-semibold text-white"> Let&apos;s build from&nbsp;here</h1>
-                <p className="relative z-1 text-[24px] md:text-[28px]  lg:text-[32px] leading-[30px] md:leading-[36px] lg:leading-[44px] mb-5 md:mb-12 md:10/12  lg:w-9/12 text-[#7d8590]">
+                <h1 className="md:mt-24 lg:mt-28 sm:mt-10 relative z-[2] max-md:mb-5 text-[48px] md:text-[72px] max-sm:leading-[60px] max-md:leading-[80px] lg:text-[80px] font-semibold text-white"> Let&apos;s build from&nbsp;here</h1>
+                <p className="relative z-[1] text-[24px] md:text-[28px]  lg:text-[32px] leading-[30px] md:leading-[36px] lg:leading-[44px] mb-5 md:mb-12 md:10/12  lg:w-9/12 text-[#7d8590]">
                 Harnessed for productivity. Designed for collaboration. Celebrated for built-in security. Welcome to the platform developers&nbsp;love.
                 </p>
                 <div className='flex lg:w-11/12 md:space-x-5 max-md:flex-col'>

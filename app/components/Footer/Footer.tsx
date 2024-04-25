@@ -97,7 +97,7 @@ const Footer = (props: Props) => {
             </li>
           </ul>
           <ul className='flex items-center mb-4 sm:mb-0 text-[#7d8590] flex-wrap' >
-            <li className="mr-3 ">© 2023 GitHub, Inc.</li>
+            <li className="mr-3 ">&copy; {new Date().getFullYear()} .GitHub, Inc.</li>
             <li className='mr-3 '><a href="">Terms</a></li>
             <li className='mr-3 '><a href="">Privacy (Updated 08/2022)</a></li>
             <li className='mr-3 '><a href="">Sitemap</a></li>
